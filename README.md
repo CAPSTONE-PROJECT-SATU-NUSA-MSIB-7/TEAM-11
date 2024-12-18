@@ -5,4 +5,4 @@
 - Zenia Kumala Rizka - 11436963 - Universitas Negeri Semarang
 
 ### Prediksi Harga Komoditas Pertanian dengan Time Series Analysis
-Data yang digunakan adalah harga beras tahun 2018-2023 perbulan di setiap provinsi pulau Jawa. Dilakukan forecasting dengan metode exponential smoothing untuk memprediksi harga beras pada tahun 2024-2025.
+Data yang digunakan adalah harga beras tahun 2019-2023 perbulan di setiap provinsi pulau Jawa. Dilakukan forecasting dengan metode exponential smoothing untuk memprediksi harga beras pada tahun 2024-2025.
